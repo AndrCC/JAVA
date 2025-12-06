@@ -1,0 +1,1 @@
+"API simples para calcular métricas de texto (número de palavras, caracteres, etc.)."
