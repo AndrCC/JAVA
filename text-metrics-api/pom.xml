@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <!-- "Coordenadas" do projeto (como um CPF do artefato) -->
-    <groupId>br.com.andrcc</groupId>
+    <groupId>br.com.andrecc</groupId>
     <artifactId>text-metrics-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>text-metrics-api</name>

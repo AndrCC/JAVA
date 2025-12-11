@@ -1,1 +1,3 @@
+br\com\andrecc\textmetrics\domain\TextMetricsCalculator.class
 br\com\andrecc\textmetrics\TextMetricsApplication.class
+br\com\andrecc\textmetrics\domain\TextMetrics.class
