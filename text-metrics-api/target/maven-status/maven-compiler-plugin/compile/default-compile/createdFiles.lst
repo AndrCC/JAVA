@@ -1,0 +1,7 @@
+br\com\andrecc\textmetrics\TextMetricsApplication.class
+br\com\andrecc\textmetrics\application\TextMetricsService.class
+br\com\andrecc\textmetrics\infra\web\TextMetricsController.class
+br\com\andrecc\textmetrics\infra\web\TextMetricsRequest.class
+br\com\andrecc\textmetrics\domain\TextMetricsCalculator.class
+br\com\andrecc\textmetrics\infra\web\TextMetricsResponse.class
+br\com\andrecc\textmetrics\domain\TextMetrics.class
